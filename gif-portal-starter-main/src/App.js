@@ -222,7 +222,7 @@ const App = () => {
       <div className={walletAddress ? 'authed-container' : 'container'}>
       <div className="container">
         <div className="header-container">
-          <p className="header"> Man City GIFs Repository </p>
+          <p className="header"> Man City GIFs </p>
           <p className="sub-text">
             GIFs of the best team in all the land and all the world 💙💙
           </p>
@@ -238,7 +238,7 @@ const App = () => {
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`built by @${TWITTER_HANDLE}`}</a>
+          >{`built by @${TWITTER_HANDLE} CTID`}</a>
         </footer>
       </div>
       </div>
