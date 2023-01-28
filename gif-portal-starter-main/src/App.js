@@ -238,7 +238,7 @@ const App = () => {
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`built by @${TWITTER_HANDLE} CTID`}</a>
+          >{`built by @${TWITTER_HANDLE} on Solana`}</a>
         </footer>
       </div>
       </div>
